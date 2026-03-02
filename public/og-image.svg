@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0e7ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <!-- Logo Circle -->
+  <circle cx="600" cy="250" r="80" fill="#4f46e5" opacity="0.1"/>
+  <text x="600" y="280" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#4f46e5" text-anchor="middle">PG</text>
+
+  <!-- Title -->
+  <text x="600" y="380" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="#0f172a" text-anchor="middle">PickGoods</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="450" font-family="Arial, sans-serif" font-size="32" fill="#64748b" text-anchor="middle">AI 기반 쇼핑 큐레이션</text>
+  <text x="600" y="500" font-family="Arial, sans-serif" font-size="28" fill="#94a3b8" text-anchor="middle">당신의 상황에 딱 맞는 물건을 추천해드립니다</text>
+</svg>

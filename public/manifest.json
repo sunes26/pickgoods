@@ -1,0 +1,19 @@
+{
+  "name": "PickGoods - 상황 맞춤형 쇼핑 큐레이션",
+  "short_name": "PickGoods",
+  "description": "당신의 상황에 딱 맞는 물건을 지마켓에서 픽(Pick)해드립니다",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "productivity"]
+}

@@ -1,0 +1,700 @@
+[INFO] 총 884개 중 884개 제품에 이미지 없음
+[INFO] 실패한 제품만 다시 크롤링 시작...
+[1/884] 크롤링 중: 전동마사지기 진동 마사지건 DDOL_7030450...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683847702/still/280?ver=1771913...
+[2/884] 크롤링 중: 전동 마사지기 진동 무선 안마건 ...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683847571/still/280?ver=1771913...
+[3/884] 크롤링 중: 전동 마사지건 저소음 안마기 진동 마사지건 WEC7030450...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683847422/still/280?ver=1771913...
+[4/884] 크롤링 중: 롤링 마사지건 진동 전동 마사지기 깊은 근육 이완...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683846769/still/280?ver=1771913...
+[5/884] 크롤링 중: 레이스 창문 가리개 커튼 세트 2 방풍 차광 효과...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683836432/still/280?ver=1771913...
+[6/884] 크롤링 중: 세탁 가능한 특대형 러그 거실 대형 카페트 미끄럼 방지 거실용...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683836323/still/280?ver=1771912...
+[7/884] 크롤링 중: 신혼부부 커플 잠옷 세트 겨울 커플 잠옷 파자마 세트...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683836209/still/280?ver=1771912...
+[8/884] 크롤링 중: 높이 조절 가능한 모니터암 스탠드 27인치 32인치 호환 모니터 거치대 ...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683836064/still/280?ver=1771912...
+[9/884] 크롤링 중: 높이 조절 가능한 모니터암 스탠드 27인치 32인치 호환 모니터 거치대 ...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683836062/still/280?ver=1771912...
+[10/884] 크롤링 중: 빅사이즈 원피스잠옷 루즈핏 잠옷 여름 원피스 홈웨어...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683835941/still/280?ver=1771912...
+[INFO] 중간 저장 완료 (10개 처리)
+[11/884] 크롤링 중: 주방 공간 절약 확장형 선반 정리 수납 걸이형...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683835804/still/280?ver=1771912...
+[12/884] 크롤링 중: 빅사이즈 여름 루즈핏 원피스 잠옷 홈웨어...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683835665/still/280?ver=1771913...
+[13/884] 크롤링 중: 식물 지지대 고정끈 원예용 결속기 고추 가지 토마토 줄기 테이프...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683835553/still/280?ver=1771912...
+[14/884] 크롤링 중: 정형외과 요양원 복 실버용품 편안한 착용감...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683835435/still/280?ver=1771912...
+[15/884] 크롤링 중: 공간 절약 걸이형 선반 정리대 싱크대 확장형...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683835316/still/280?ver=1771912...
+[16/884] 크롤링 중: 방수 방염 문서 보관 상자 중요 서류 정리함...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683835178/still/280?ver=1771912...
+[17/884] 크롤링 중: 소형 조립식 비닐 하우스 가정용 미니온실 텃밭 키우기...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834971/still/280?ver=1771912...
+[18/884] 크롤링 중: 신혼여행 섹시 원피스 슬립웨어 잠옷 이벤트룩...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834863/still/280?ver=1771913...
+[19/884] 크롤링 중: 네일 컬러 차트 판 네일 아트판 네일팁 보관함...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834787/still/280?ver=1771912...
+[20/884] 크롤링 중: 세탁 가능한 대형 러그 카페트 미끄럼 방지 거실 매트...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834699/still/280?ver=1771912...
+[INFO] 중간 저장 완료 (20개 처리)
+[21/884] 크롤링 중: 팬콧 스페이스 퍼플 책가방 세트 초등학생 여아 가방...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834619/still/280?ver=1771912...
+[22/884] 크롤링 중: 다이몬쥬 러프 책가방 세트 초등학생 남아 가방...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834540/still/280?ver=1771912...
+[23/884] 크롤링 중: 소형 조립식 비닐 하우스 가정용 텃밭 옥상 미니온실 DIY...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834460/still/280?ver=1771912...
+[24/884] 크롤링 중: 세탁 가능한 미끄럼 방지 특대형 러그 거실 카페트...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834348/still/280?ver=1771912...
+[25/884] 크롤링 중: 쿠로미 일체형 책가방 산리오 초등학생 캐릭터 가방...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834230/still/280?ver=1771912...
+[26/884] 크롤링 중: 방수 방염 문서 보관 상자 계약서 중요 서류 보관함 문서함...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834158/still/280?ver=1771912...
+[27/884] 크롤링 중: 윙 어센틱걸 책가방 세트 여아 초등학생 백팩 가방...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683834062/still/280?ver=1771912...
+[28/884] 크롤링 중: 원피스 슬립 웨어 신혼여행 섹시한 이벤트 속옷 잠옷 롱슬립...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683833980/still/280?ver=1771913...
+[29/884] 크롤링 중: 신혼부부 따뜻한 겨울 커플 잠옷 세트 파자마...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683833884/still/280?ver=1771912...
+[30/884] 크롤링 중: 네일 아트 컬러 차트 판 네일팁 보관함...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4683833700/still/280?ver=1771912...
+[INFO] 중간 저장 완료 (30개 처리)
+[31/884] 크롤링 중: 키밍 남성 베이직 니트 가디건 브이넥 솔리드 코트...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4682723725/still/280?ver=1771819...
+[32/884] 크롤링 중: 도톰 볼륨 여성 떡볶이 단추 루즈핏 니트 가디건...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4682723646/still/280?ver=1771821...
+[33/884] 크롤링 중: 여성 캐주얼 투웨이 레더 집업 자켓 데일리 점퍼...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4682723574/still/280?ver=1771819...
+[34/884] 크롤링 중: 여성 루즈핏 롱 니트 가디건 봄 가을 간절기 아우터...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4682723527/still/280?ver=1771821...
+[35/884] 크롤링 중: 남녀공용 기본 심플 바스락 후드 점퍼 바람막이 잠바...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4682723474/still/280?ver=1771819...
+[36/884] 크롤링 중: 여성 배색라인 간절기 집업 점퍼 얇은 바람막이 잠바...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4682723400/still/280?ver=1771819...
+[37/884] 크롤링 중: 여성 브이넥 하찌 루즈핏 니트 가디건 캐주얼 카디건...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4682723338/still/280?ver=1771821...
+[38/884] 크롤링 중: 여성 오버핏 양털 뽀글이 점퍼 겨울 베이직 털잠바...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4682723256/still/280?ver=1771819...
+[39/884] 크롤링 중: 여성 캐주얼 집업 가디건 간절기 아우터 자켓...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4682723143/still/280?ver=1771819...
+[40/884] 크롤링 중: 여성 긴팔 캐시 니트 가디건 오버핏 루즈핏 라운드넥...
+    [SUCCESS] https://gdimg.gmarket.co.kr/4682723013/still/280?ver=1771821...
+[INFO] 중간 저장 완료 (40개 처리)
+[41/884] 크롤링 중: 여성 플리스 후드 집업 점퍼 간절기 캐주얼 자켓 재킷...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[42/884] 크롤링 중: 여성 하프넥 안감퍼 집업 점퍼 따뜻한 캐주얼 자켓...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[43/884] 크롤링 중: 여성 레더 라이더 자켓 간절기 인조가죽 점퍼 재킷...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[44/884] 크롤링 중: 여성 클래식 꽈배기 라운드넥 케이블 니트 가디건...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[45/884] 크롤링 중: 여성 오버핏 배색라인 하이넥 집업 점퍼 간절기 잠바...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[46/884] 크롤링 중: 여성 페이크 퍼 무스탕 스웨이드 자켓 캐주얼 점퍼...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[47/884] 크롤링 중: 머레이 갈고리형 전신 마사지 해머 DWHM-1...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[48/884] 크롤링 중: 다기능 휴대용 마사지기 컴팩트 진동안마기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[49/884] 크롤링 중: 근막 마사지건 미니 해면근 이완기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[50/884] 크롤링 중: 저소음 마사지건 바디온9300 전동 마사지 머신...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[INFO] 중간 저장 완료 (50개 처리)
+[51/884] 크롤링 중: 진동 안마기 어깨 무릎 허리 마사지건 근육 이완 마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[52/884] 크롤링 중: C타입 무선 마사지건 휴대용 어깨 진동안마기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[53/884] 크롤링 중: 저소음 듀얼 마사지건 블랙 바디 마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[54/884] 크롤링 중: 머레이 미니 마사지건 M-GUN...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[55/884] 크롤링 중: 충전식 무선 마사지건 진동 회복 GFH-7000...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[56/884] 크롤링 중: 휴대용 마사지기 손목 긴장 완화 이완 기계...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[57/884] 크롤링 중: 휴대용 미니 마사지건 근막 이완 진동기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[58/884] 크롤링 중: 이지백 무선 마사지건 5단 조절 진동 안마기 커브형 마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[59/884] 크롤링 중: 진동 전동 마사지건 목마사지기 맛사지건 핸드마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[60/884] 크롤링 중: 근막 이완 마사지건 손목 발 목마사지건...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[INFO] 중간 저장 완료 (60개 처리)
+[61/884] 크롤링 중: 마사지건 무선 진동 근육 회복기 KF-G70...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[62/884] 크롤링 중: 맛사지건 무선마사지기 듀얼 전동 마사지건...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[63/884] 크롤링 중: 듀얼 전동 마사지건 미니안마기 전신안마기 무선마사...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[64/884] 크롤링 중: 목마사지기 목어깨마사지기 진동 전동 마사지건...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[65/884] 크롤링 중: 진동 마사지건 안마기 맛사지건 전동마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[66/884] 크롤링 중: 충전식 Mini 마사지건 C타입 손 근막 마사지...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[67/884] 크롤링 중: 안마 마사지건 미니 회복건 마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[68/884] 크롤링 중: 목 어깨 무선 마사지건 휴대용 안마기 근육이완...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[69/884] 크롤링 중: 진동 마사지건 소형안마기 미니마사지기 전동안마기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[70/884] 크롤링 중: 전동 마사지건 핸드안마기 소형안마기 미니마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[INFO] 중간 저장 완료 (70개 처리)
+[71/884] 크롤링 중: 전동 마사지건 효도선물 전동안마기 소형안마기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[72/884] 크롤링 중: 무선 진동 마사지건 근육 마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[73/884] 크롤링 중: 다기능 경량 마사지건 미니 진동기 무선 휴대용...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[74/884] 크롤링 중: 진동 마사지건 맛사지건 효도선물 전동안마기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[75/884] 크롤링 중: 마사지건 강력한 파워 마사징건 회복마사지...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[76/884] 크롤링 중: 무선 진동 마사지건 휴대용 진동기 KF-G90...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[77/884] 크롤링 중: 전동 마사지건  진동안마기 맛사지건...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[78/884] 크롤링 중: 휴대용 무선 마사지건 셀프 목 어깨 느슨함...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[79/884] 크롤링 중: 88 미니 마사지건 휴대용 충전식 마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[80/884] 크롤링 중: 전동안마기 부모님안마기 휴대용 미니 마사지건...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[INFO] 중간 저장 완료 (80개 처리)
+[81/884] 크롤링 중: 미니 핸디 진동 근육 전동 안마기 휴대용 마사지건...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[82/884] 크롤링 중: 폼롤러 마사지 스틱 마사지건 근육마사지...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[83/884] 크롤링 중: 6종 헤드 마사지건 휴대용 무선 진동 마사지 안마기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[84/884] 크롤링 중: 안마기 진동 마사지건 소형 무선 마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[85/884] 크롤링 중: 진동 전동 마사지건 맛사지건 핸드안마기 핸드마사지...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[86/884] 크롤링 중: 전동 마사지건 무선 스포츠 회복 마사지 기기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[87/884] 크롤링 중: 소형 마사지건 강력한 킥백 마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[88/884] 크롤링 중: 휴대용 미니 마사지건 림프마사지기계 무선마사지 견갑골마사지기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[89/884] 크롤링 중: 마사지건 진동 바디안마기 헬스건 바디마사지...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[90/884] 크롤링 중: 전신마사지건 근육 마사지 총알건 예민한부위마사지...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[INFO] 중간 저장 완료 (90개 처리)
+[91/884] 크롤링 중: 전신 마사지기로 완벽한 무선 마사지건 휴대용...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[92/884] 크롤링 중: 마사지 건 총근육 마사지 진동건 안마기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[93/884] 크롤링 중: 진동 마사지건 핸드안마기 무선마사지건...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[94/884] 크롤링 중: 듀블렉스 핸디 마사지건 1P 근육 진동 미니 안마기...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[95/884] 크롤링 중: 핸디 마사지건 근육 진동 스포츠 미니 안마기 1P...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[96/884] 크롤링 중: 듀얼 무선 진동 마사지건 근육 마사지기 홈트레이닝...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[97/884] 크롤링 중: 강력한 무선 마사지건 휴비딕 휴식 건강...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[98/884] 크롤링 중: 미니마사지기 무선마사지건 전동 마사지건...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[99/884] 크롤링 중: 토로케루 매운맛카레 1k X20 일식카레 고형카레 고체...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[100/884] 크롤링 중: 식자재 도매 유부주머니 두솔 고기나라 500g x20개...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[INFO] 중간 저장 완료 (100개 처리)
+[101/884] 크롤링 중: 로즈마리분말 22kg...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[102/884] 크롤링 중: 영양갈비탕(선봉 700g)X25 소갈비탕 즉석탕 즉석식품...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[103/884] 크롤링 중: (청우)꼬리곰탕 550g X 25...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[104/884] 크롤링 중: WL 에스엔비 도로케루카레 매운맛 1Kg X 20개 일본커리 고형카레 고...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[105/884] 크롤링 중: 구운아몬드(넥스푸드 1K) X10...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[106/884] 크롤링 중: 에스엔비 고형 골든카레 중간매운맛 220g X 60개...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[107/884] 크롤링 중: 식자재 식재료 유통 곱창전골 선봉 800g x20개...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[108/884] 크롤링 중: 육회시즈닝분말 20kg...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[109/884] 크롤링 중: 에스비 중간매운맛골든카레(고형) 220Gx60개...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[110/884] 크롤링 중: WL 에스엔비 도로케루카레 매운맛 1Kg X 20개 일본커리 고형카레 고...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[INFO] 중간 저장 완료 (110개 처리)
+[111/884] 크롤링 중: 에스앤비 에스엔비 고형 골든카레 매운맛 220g X 60개...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[112/884] 크롤링 중: 푸드 맥심 오리지날 커피 500g 12ea 1box...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[113/884] 크롤링 중: 사옹원 새우튀김 1kg 10개...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[114/884] 크롤링 중: WL 수리 타이 레드 커리 페이스트 400g X 24개...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[115/884] 크롤링 중: 맥심 오리지날 커피 500g 12ea 1box...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e
+    [FAIL] 이미지를 찾을 수 없습니다.
+[116/884] 크롤링 중: 식자재 도매 골든카레 고형 매운맛 220g x60개...
+    [DEBUG] og:image 실패: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6d7dd3
+	0x6d7e14
+	0x4e

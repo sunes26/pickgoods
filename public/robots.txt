@@ -1,0 +1,11 @@
+# PickGoods Robots.txt
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+# Sitemap
+Sitemap: https://pickgoods.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1

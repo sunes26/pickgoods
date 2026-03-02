@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(node --version:*)",
+      "Bash(npm --version)",
+      "Bash(git --version)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --app --use-npm --no-git --skip-install)",
+      "Bash(npm install)",
+      "Bash(npm run dev)",
+      "Bash(pip install:*)",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(npm install:*)",
+      "WebFetch(domain:item.gmarket.co.kr)",
+      "Bash(timeout:*)",
+      "Bash(ls:*)",
+      "Bash(if [ -f \"failed_products.json\" ])",
+      "Bash(then echo \"failed_products.json 존재\")",
+      "Bash(else echo \"failed_products.json 없음\")",
+      "Bash(fi)",
+      "WebSearch",
+      "Bash(curl:*)",
+      "Bash(if [ -f products.json ])",
+      "Bash(then mv products.json products.json.backup_20260228)",
+      "Bash(else echo \"기존 products.json 없음\")",
+      "Bash(tee:*)",
+      "Bash(if [ -f crawl_output_new.txt ])",
+      "Bash(then tail -20 crawl_output_new.txt)",
+      "Bash(else echo \"로그 파일 없음\")",
+      "Bash(docker:*)",
+      "Bash(powershell.exe -Command \"Start-Process ''C:\\\\Program Files\\\\Docker\\\\Docker\\\\Docker Desktop.exe''\")",
+      "Bash(netstat:*)",
+      "Bash(node -e:*)",
+      "Bash(test:*)",
+      "Bash(npm run build:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
